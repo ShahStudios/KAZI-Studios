@@ -5,4 +5,4 @@
 * Experience working with modern web technologies (HTML5, CSS3, Bootstrap)
 
 # View Project
-* https://shahstudios.github.io/KAZI-Studios/
+https://shahstudios.github.io/KAZI-Studios/
